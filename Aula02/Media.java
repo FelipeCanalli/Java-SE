@@ -1,5 +1,10 @@
 package exercicios;
 
+/**
+ * @author Felipe Galvão
+ * Média de Notas
+ */
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
