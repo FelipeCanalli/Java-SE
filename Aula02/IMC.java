@@ -1,9 +1,9 @@
 package exercicios;
 
-/**
- * @author Felipe Galvão
- * Índice de Massa Corpórea
- */
+/** 
+  Índice de Massa Corporal
+  @author Felipe Galvão
+*/
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
@@ -26,7 +26,7 @@ public class IMC {
 		}
 		imc = peso / (altura * altura);
 		// SAIDA
-		System.out.println("Seu Indice de massa corporal é: " + formatador.format(imc));
+		System.out.println("Seu Índice de massa corporal é: " + formatador.format(imc));
 		if (imc < 18.5) {
 			System.out.println("Abaixo do peso");
 		} else if (imc > 18.5 && imc <= 24.9) {

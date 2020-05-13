@@ -1,5 +1,10 @@
 package exercicios;
 
+/** 
+   jokenpô
+   @author Felipe Galvão
+*/
+
 import java.util.Scanner;
 
 public class Jokenpo {
