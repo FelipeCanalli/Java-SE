@@ -1,4 +1,5 @@
 # Ajuda no Desenvolver de um Código
+![Macoste Duke](https://github.com/FelipeGalvao1/java/blob/master/Imagens/duke.png)
 
 1 - Partir da logica, entender o problema e pensar na solução.
 
